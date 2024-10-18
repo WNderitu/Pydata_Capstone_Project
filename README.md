@@ -127,9 +127,7 @@ For the comparison of status on follow up and the numerical disease variables fo
 
 A pair plot was created using seaborn module. 
 
-## 1.5 Findings & Visualization
-Visualizations of the data
-
+# 1.5 Findings & Visualization
 
 ![alt text](image-2.png)
 
