@@ -88,7 +88,7 @@ import seaborn as sns
 
 # 1.4 Usage
 
-See accompanying code in breastcancerdata.ipynb notebook
+See code and findings in breastcancerdata.ipynb notebook
 
 # 1.5 Acknowledgements/Attributions
 1. IEEE DATAPORT - https://ieee-dataport.org/open-access/seer-breast-cancer-data
