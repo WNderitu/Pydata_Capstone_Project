@@ -1,6 +1,6 @@
 # 1.0 Title
 
-Trends & Insights into Survival in Female Breast Cancer Patients diagnosed between 2006 & 2010: SEER Data
+Trends & Insights into Survival in Female Breast Cancer Patients diagnosed between 2006 & 2010, USA: SEER Data
 (Pydata_Capstone_Project)
 
 # 1.1 Project description
